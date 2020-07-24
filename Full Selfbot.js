@@ -3,5 +3,7 @@ clear();location.reload();var i=document.createElement("iframe");document.body.a
 /////////////////////////////////////////////////////////
 //Now compressed for less space
 //Now updated so you don't have to put your auth token in
+//Updated so you can add colors to embeds via decimal numbers
+//Built-in hexidemical to decimal converter added
 //Some commands may require certain permissions
 /////////////////////////////////////////////////////////
